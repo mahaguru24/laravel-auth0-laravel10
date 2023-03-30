@@ -39,7 +39,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "auth0/auth0-php": "dev-main",
-        "illuminate/contracts": "^9.0 || ^10.0",
+        "illuminate/contracts": "*",
         "illuminate/http": "^9.0 || ^10.0",
         "illuminate/support": "^9.0 || ^10.0",
         "psr/cache": "^2.0 || ^3.0"
